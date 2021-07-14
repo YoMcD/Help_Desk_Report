@@ -1,2 +1,3 @@
 # Help_Desk_Report
 How to Run a report from Jira
+Code to run help desk report Go to https://nbviewer.jupyter.org put in the url of the help desk report code press the go button to view the notebook. This will display the file as a static html, you have to open it using the Binder Application. In the nbviewer window you will see 'Execute on Binder' button. Click on it and you will see the notebook file open exactly as it should be opened. Go to the second cell and input your user name and password. Go to the last cell in the notebook and edit email_content and mail.To For attachment = replace mcdowell with your user name. Go to the bar at the top and hit the double arrow button to run the code.
